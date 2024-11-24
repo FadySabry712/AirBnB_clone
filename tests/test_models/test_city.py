@@ -136,4 +136,3 @@ class TestCity_save(unittest.TestCase):
         cy = City()
         cy.save()
         cyid = "City." + cy.id
-
